@@ -1,0 +1,19 @@
+id: 58309ebe619c417aa033cc1d65f54e3e
+annotation_type: index
+revision: '00001'
+annotations:
+  de859f19b6db4e1688d04be4cba05bd0:
+    base: C979.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 109
+    - title: Preface
+      span:
+        start: 110
+        end: 4246
+    - title: Colophon
+      span:
+        start: 4247
+        end: 4547

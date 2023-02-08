@@ -1,0 +1,16 @@
+id: I8C265850
+default_language: en
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 14:59:19.046915
+last_modified: 2023-02-08 14:59:19.047030
+source_metadata:
+  title: Brahmaśrīvyākaraṇa
+  language: en
+bases:
+  C979:
+    base_file: C979.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
